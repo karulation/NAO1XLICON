@@ -15,7 +15,7 @@ global.devs = '60177637943';
 global.website = 'https://neoanicom.com' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/3c341828d86ee7a89c73f.jpg'
 module.exports = {
-  sessionName:  process.env.SESSION_ID ||  " ",  //PUT Session Id Here, 
+  sessionName:  process.env.SESSION_ID ||  "Xlicon_1cf76b6c-a788-46c7-aa5c-055980274d4a",  //PUT Session Id Here, 
   author:  process.env.PACK_AUTHER ||  'Karu Shion',
   packname:  process.env.PACK_NAME || 'Nao Shion',
    
